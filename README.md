@@ -1,4 +1,4 @@
 # Ejemplo-Clase-NLP
 Repositorio de mis proyectos en NLP
 
-Soy Diego y tengo estudio de posgrado en analítica de dats, estos son mis proyectos de NLP
+Soy Diego y estudio un posgrado en analítica de datos, estos son mis proyectos de NLP

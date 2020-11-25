@@ -2,16 +2,16 @@
 
 ![Cat](https://thumbs.dreamstime.com/b/forma-de-gato-negro-en-la-nube-palabras-para-los-amantes-gatos-ilustra-un-divertido-sentado-ojos-grandes-se-apoderan-del-mundo-168827548.jpg)
 
-Este año fue de muchos retos, aprendizajes y muy productivo, en especial en el tema de analisis y modelamiento de datos.
+Este año fue de muchos retos, aprendizajes y muy productivo, en especial en el tema de análisis y modelamiento de datos.
 
 Mi nombre es Diego Diaz, matemático de profesión, apasionado por los datos y la inteligencia artificial y quiero enseñarte mis proyectos de Natural Language Processing (NLP).
 
 
 ### Proyectos
 
-- [Introducción a NLP](https://github.com/DiazDiegoP/Ejemplo-Clase-NLP/blob/master/Taller1.ipynb): Una breve introduccion al procesamiento de lenguaje natural en el cual se hallan la palabras mas usadas en un texto.
+- [Introducción a NLP](https://github.com/DiazDiegoP/Ejemplo-Clase-NLP/blob/master/Taller1.ipynb): Una breve introducción al procesamiento de lenguaje natural en el cual se hallan la palabras mas usadas en un texto.
 
-- [Lectura de archivos y Web Scraping](https://github.com/DiazDiegoP/Proyectos-NLP/blob/master/Taller2_solucion.ipynb): En este proyecto se vamos a leer varios archivos y se va a extraer información de varias páginas web usando la técnica de Web Scraping.
+- [Lectura de archivos y Web Scraping](https://github.com/DiazDiegoP/Proyectos-NLP/blob/master/Taller2_solucion.ipynb): En este proyecto vamos a leer varios archivos y se va a extraer información de varias páginas web usando la técnica de Web Scraping.
 
 - [Pre-procesamiento de textos](https://github.com/DiazDiegoP/Proyectos-NLP/blob/master/Taller3_solucion.ipynb): Enfatizamos en las principales técnicas de pre-procesamiento de texto, tales como: minúsculas, expresiones regulares, quitar tildes, tokenizar, stopwords y stemming.
 

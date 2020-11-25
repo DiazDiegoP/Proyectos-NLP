@@ -40,3 +40,5 @@ Agregame a:
 
 - [Twitter](https://twitter.com/diazdiegop)
 
+Información [aquí](https://diazdiegop.github.io/Proyectos-NLP/)
+

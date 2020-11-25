@@ -11,7 +11,7 @@ Mi nombre es Diego Diaz, matemático de profesión, apasionado por los datos y l
 
 - [Introducción a NLP](https://github.com/DiazDiegoP/Ejemplo-Clase-NLP/blob/master/Taller1.ipynb): Una breve introducción al procesamiento de lenguaje natural en el cual se hallan la palabras mas usadas en un texto.
 
-- [Lectura de archivos y Web Scraping](https://github.com/DiazDiegoP/Proyectos-NLP/blob/master/Taller2_solucion.ipynb): En este proyecto vamos a leer varios archivos y se va a extraer información de varias páginas web usando la técnica de Web Scraping.
+- [Lectura de archivos y Web Scraping](https://github.com/DiazDiegoP/Proyectos-NLP/blob/master/Taller2_solucion.ipynb): En este proyecto vamos a leer varios archivos y se van a extraer información de varias páginas web usando la técnica de Web Scraping.
 
 - [Pre-procesamiento de textos](https://github.com/DiazDiegoP/Proyectos-NLP/blob/master/Taller3_solucion.ipynb): Enfatizamos en las principales técnicas de pre-procesamiento de texto, tales como: minúsculas, expresiones regulares, quitar tildes, tokenizar, stopwords y stemming.
 

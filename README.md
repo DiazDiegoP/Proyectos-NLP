@@ -19,7 +19,7 @@ Mi nombre es Diego Diaz, matemático de profesión, apasionado por los datos y l
 
 - [tf-idf y distancias entre documentos](https://github.com/DiazDiegoP/Proyectos-NLP/blob/master/Taller5_solucion.ipynb): Representación vectorial del texto usando la técnica de tf-idf (term frecuency - inverse document frecuency), ademas del cálculo de la distancia entre documentos.
 
-- [Word2vec](https://github.com/DiazDiegoP/Proyectos-NLP/blob/master/Taller6_solucion.ipynb): A traves del modelo $\textit{word2vec}$ aprendemos asociaciones entre palabras usando un gran conjunto de textos, ademas, una vez entrenado, dicho modelo puede detectar sinónimos, distancias entre palabras, entre otras.
+- [Word2vec](https://github.com/DiazDiegoP/Proyectos-NLP/blob/master/Taller6_solucion.ipynb): A traves del modelo word2vec aprenderemos asociaciones entre palabras usando un gran conjunto de textos, ademas, una vez entrenado, dicho modelo puede detectar sinónimos, distancias entre palabras, entre otras.
 
 - [Clasificación y Segmentación](https://github.com/DiazDiegoP/Proyectos-NLP/blob/master/Taller7_solucion.ipynb): Aprenderemos a entrenar un modelo de clasificación y a entrenar un modelo de segmentación junto con sus métricas de desempeño.
 
@@ -34,4 +34,9 @@ Mi nombre es Diego Diaz, matemático de profesión, apasionado por los datos y l
 
 ### ¿Te interesaria conocer más? 
 
-- Agregame a [LinkedIn](https://www.linkedin.com/in/diego-diaz-padilla/)
+Agregame a:
+
+- [LinkedIn](https://www.linkedin.com/in/diego-diaz-padilla/)
+
+- [Twitter](https://twitter.com/diazdiegop)
+

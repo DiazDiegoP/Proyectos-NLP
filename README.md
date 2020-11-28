@@ -31,7 +31,7 @@ Mi nombre es Diego Diaz, matemático de profesión, apasionado por los datos y l
 
 - [Analisis de sentimiento](https://github.com/DiazDiegoP/Proyectos-NLP/blob/master/Taller11_solucion.ipynb): Hay veces hay que meterle corazón a los datos y que mejor que por medio del análisis de sentimiento en redes sociales.
 
-- [Análisis de Redes Sociales](https://github.com/DiazDiegoP/Proyectos-NLP/blob/master/proyectonlp.ipynb): En este último notebook vamos a usar todo lo aprendido hasta el momento, en donde se desarrollará un modelo de clasificación de comentarios entre positivos y negativos; un modelado de temas de conversación y unas gráficas que nos ayudarán a entender los resultados. 
+- [Análisis de Redes Sociales](https://nbviewer.jupyter.org/github/DiazDiegoP/Proyectos-NLP/blob/master/proyectonlp.ipynb): En este último notebook vamos a usar todo lo aprendido hasta el momento, en donde se desarrollará un modelo de clasificación de comentarios entre positivos y negativos, un modelado de temas de conversación y unas gráficas que nos ayudarán a entender los resultados. 
 
 
 ### ¿Te interesaria conocer más? 
